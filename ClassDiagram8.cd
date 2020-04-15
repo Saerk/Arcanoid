@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="BallController">
+    <Position X="4.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAiAAACAEAAIAAAAAAAAAAQAIAAAAAAACAAA=</HashCode>
+      <FileName>Assets\Scripts\BallController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BrickController">
+    <Position X="7.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIQAAAgACAAAAAQAAAAAAAgBAAAAAEIAgAABAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\BrickController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DestroyObjectsByExit">
+    <Position X="5.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\DestroyObjectsByExit.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DividePUScript">
+    <Position X="15.25" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAgAAAAQAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\DividePUScript.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ExpandPUScript">
+    <Position X="8.75" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQQAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAA=</HashCode>
+      <FileName>Assets\Scripts\ExpandPUScript.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameController">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAwECAACAAgQAAAEAIAAAAASIAAAABAAAAAAIAEAA=</HashCode>
+      <FileName>Assets\Scripts\GameController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LifePUScript">
+    <Position X="13" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAQAAAAAAAAAAAAAIAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\LifePUScript.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlatformController">
+    <Position X="9.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAAiAAAAAUAAACAAAAAAEAAQAAQACAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\PlatformController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PowerUpScript">
+    <Position X="11.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAiAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\PowerUpScript.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SlowPUScript">
+    <Position X="10.75" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAA=</HashCode>
+      <FileName>Assets\Scripts\SlowPUScript.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="8.25" />
+</ClassDiagram>
